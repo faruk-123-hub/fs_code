@@ -2,7 +2,7 @@ FROM nginx:alpine
 
 COPY README.md /usr/share/nginx/html/index.html
 
-LABEL author="faruk"
+LABEL author="faruk Sayyad"
 LABEL version="1.0"
 
 EXPOSE 80
